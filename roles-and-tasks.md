@@ -1,5 +1,6 @@
 # Product Manager
 ## Product Vision
+### Lean Business Value Canvas
 ## Target Market
 ## ICP
 ## JTBD, Pains, Needs
@@ -11,3 +12,6 @@
 # Product Marketer
 # Sales
 # CFO
+## Team Building
+Great products are built by teams. Great companies are built by teams. A product manager succeeds by being a great team player.
+###
